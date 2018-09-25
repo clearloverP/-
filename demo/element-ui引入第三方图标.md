@@ -6,6 +6,7 @@
 ## 步骤
 1、进入网站登录账户后，进入【图标管理】-【我的项目】-【添加项目】，新建一个项目，如下图所示：<br>
 
+https://github.com/clearloverP/vue/blob/master/demo/images/icon/001.jpg
 2、点击【新建项目】后，弹出项目名称等信息框图，如下图所示：<br>
 
 3、完成后，点击确定，然后在跳转之后的页面上选择【Font class】
