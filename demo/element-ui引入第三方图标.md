@@ -35,7 +35,7 @@
 <br>
 10、然后打开iconfont.css，添加代码如下：<br>
 ```
-[class^="el-icon-shop"], [class*=" el-icon-shop"] {
+[class^="el-icon-vpn"], [class*=" el-icon-vpn"] {
   font-family: "fontFamily" !important;
   // 以下内容参照第三方图标库本身的规则
   font-size: 18px;
