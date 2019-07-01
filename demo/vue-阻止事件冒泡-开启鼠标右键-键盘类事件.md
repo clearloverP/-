@@ -3,7 +3,7 @@
 ```
 <div id="box">
      <div @click="parentShow">
-    　　  <button type="button" @click="show()">点 击</button>
+    　　  <button type="button" @click="show">点 击</button>
      </div>
 </div>
 ```
