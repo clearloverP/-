@@ -40,4 +40,4 @@ data() {
     }
 }
 ```
-```addFormData.category``` 值和 ```categoryList``` 的每一项的 ```label``` 对应。
+```addFormData.category``` 值和 ```categoryList``` 的每一项的 ```label``` 对应。也就是应该将```v-model```的值与```categoryList``` 的每一项的 ```label``` 对应
